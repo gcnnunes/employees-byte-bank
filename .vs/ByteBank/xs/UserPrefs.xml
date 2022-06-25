@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{1F75249E-020F-44EB-AF1B-5D7DD96D0700}|Default">
+  <MonoDevelop.Ide.ItemProperties.ByteBank PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Funcionario/Desenvolvedor.cs">
+    <Files>
+      <File FileName="Program.cs" Line="46" Column="58" />
+      <File FileName="GerenciadorBonificacao.cs" />
+      <File FileName="ParceiroComercial.cs" />
+      <File FileName="Sistemas/SistemaInterno.cs" />
+      <File FileName="Sistemas/IAutenticavel.cs" />
+      <File FileName="Funcionario/Funcionario.cs" Line="20" Column="55" />
+      <File FileName="Funcionario/FuncionarioAutenticavel.cs" Line="1" Column="1" />
+      <File FileName="Funcionario/Diretor.cs" Line="1" Column="1" />
+      <File FileName="Funcionario/Designer.cs" Line="1" Column="1" />
+      <File FileName="Funcionario/Desenvolvedor.cs" Line="18" Column="78" />
+      <File FileName="Funcionario/GerenteDeConta.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ByteBank" expanded="True">
+            <Node name="ByteBank" expanded="True">
+              <Node name="Funcionario" expanded="True">
+                <Node name="Desenvolvedor.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Sistemas" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

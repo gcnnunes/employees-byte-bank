@@ -1,0 +1,6 @@
+/Users/gustavo/Projects/ByteBank/bin/Debug/ByteBank.exe.config
+/Users/gustavo/Projects/ByteBank/bin/Debug/ByteBank.exe
+/Users/gustavo/Projects/ByteBank/bin/Debug/ByteBank.pdb
+/Users/gustavo/Projects/ByteBank/obj/Debug/ByteBank.csproj.CoreCompileInputs.cache
+/Users/gustavo/Projects/ByteBank/obj/Debug/ByteBank.exe
+/Users/gustavo/Projects/ByteBank/obj/Debug/ByteBank.pdb
