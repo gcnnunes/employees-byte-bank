@@ -3,6 +3,6 @@ A project developed in .Net Core to practive inheritance, abstract classes, stat
 
 How to run this project:
 
-Download the fonts to your computer /n
-Build the project /n
-Run "Program.cs"
+1) Download the fonts to your computer 
+2) Build the project 
+3) Run "Program.cs"
